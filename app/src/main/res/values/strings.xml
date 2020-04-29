@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spinner Calculator</string>
+    <string name="txt_value1">First Value</string>
+    <string name="txt_value2">Second Value</string>
+    <string name="button">Calculate</string>
+    <string name="tv_result">Result</string>
+</resources>
